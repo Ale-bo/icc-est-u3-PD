@@ -6,7 +6,7 @@
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Ivanna Nievecela
-- **Fecha:** 15/07/2025
+- **Fecha:** 16/07/2025
 - **Profesor:** Ing. Pablo Torres
 
 ---
@@ -14,6 +14,7 @@
 ## 🛠️ Descripción 
 
 ![alt text](image-1.png)
+![alt text](image-2.png)
 ---
 
 ## 🚀 Ejecución
